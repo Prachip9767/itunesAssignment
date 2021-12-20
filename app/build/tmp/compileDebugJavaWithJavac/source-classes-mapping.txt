@@ -1,0 +1,2 @@
+com/app/appliitunes/BuildConfig.java
+ com.app.appliitunes.BuildConfig
