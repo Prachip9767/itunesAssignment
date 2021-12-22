@@ -77,9 +77,9 @@ class HomeFragment : Fragment() {
         })
         viewModel.getDataFromAPI(query)
     }
-    private fun insertDataToDb(resultModels: List<Result>) {
+    private fun insertDataToDb(result: List<Result>) {
         viewModel.deleteDataFromDb()
-        resultModels.forEach {
+        result.forEach {
             val itunesDb = ItunesTable(it.artistName, it.artworkUrl100)
             viewModel.insertDataInDb(itunesDb)
         }
