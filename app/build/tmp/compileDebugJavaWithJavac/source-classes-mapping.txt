@@ -1,2 +1,127 @@
+com/app/appliitunes/app/Hilt_ItunesApp.java
+ com.app.appliitunes.app.Hilt_ItunesApp
+ com.app.appliitunes.app.Hilt_ItunesApp$1
+com/app/appliitunes/remote/database/ItunesDao_Impl.java
+ com.app.appliitunes.remote.database.ItunesDao_Impl
+ com.app.appliitunes.remote.database.ItunesDao_Impl$1
+ com.app.appliitunes.remote.database.ItunesDao_Impl$2
+ com.app.appliitunes.remote.database.ItunesDao_Impl$3
+com/app/appliitunes/ui/Hilt_MainActivity.java
+ com.app.appliitunes.ui.Hilt_MainActivity
+ com.app.appliitunes.ui.Hilt_MainActivity$1
+com/app/appliitunes/app/ItunesApp_ComponentTreeDeps.java
+ com.app.appliitunes.app.ItunesApp_ComponentTreeDeps
+com/app/appliitunes/app/DaggerItunesApp_HiltComponents_SingletonC.java
+ com.app.appliitunes.app.DaggerItunesApp_HiltComponents_SingletonC
+ com.app.appliitunes.app.DaggerItunesApp_HiltComponents_SingletonC$1
+ com.app.appliitunes.app.DaggerItunesApp_HiltComponents_SingletonC$ActivityCBuilder
+ com.app.appliitunes.app.DaggerItunesApp_HiltComponents_SingletonC$ActivityCImpl
+ com.app.appliitunes.app.DaggerItunesApp_HiltComponents_SingletonC$ActivityRetainedCBuilder
+ com.app.appliitunes.app.DaggerItunesApp_HiltComponents_SingletonC$ActivityRetainedCImpl
+ com.app.appliitunes.app.DaggerItunesApp_HiltComponents_SingletonC$ActivityRetainedCImpl$SwitchingProvider
+ com.app.appliitunes.app.DaggerItunesApp_HiltComponents_SingletonC$Builder
+ com.app.appliitunes.app.DaggerItunesApp_HiltComponents_SingletonC$FragmentCBuilder
+ com.app.appliitunes.app.DaggerItunesApp_HiltComponents_SingletonC$FragmentCImpl
+ com.app.appliitunes.app.DaggerItunesApp_HiltComponents_SingletonC$ServiceCBuilder
+ com.app.appliitunes.app.DaggerItunesApp_HiltComponents_SingletonC$ServiceCImpl
+ com.app.appliitunes.app.DaggerItunesApp_HiltComponents_SingletonC$SwitchingProvider
+ com.app.appliitunes.app.DaggerItunesApp_HiltComponents_SingletonC$ViewCBuilder
+ com.app.appliitunes.app.DaggerItunesApp_HiltComponents_SingletonC$ViewCImpl
+ com.app.appliitunes.app.DaggerItunesApp_HiltComponents_SingletonC$ViewModelCBuilder
+ com.app.appliitunes.app.DaggerItunesApp_HiltComponents_SingletonC$ViewModelCImpl
+ com.app.appliitunes.app.DaggerItunesApp_HiltComponents_SingletonC$ViewModelCImpl$SwitchingProvider
+ com.app.appliitunes.app.DaggerItunesApp_HiltComponents_SingletonC$ViewWithFragmentCBuilder
+ com.app.appliitunes.app.DaggerItunesApp_HiltComponents_SingletonC$ViewWithFragmentCImpl
+androidx/databinding/DataBinderMapperImpl.java
+ androidx.databinding.DataBinderMapperImpl
+com/app/appliitunes/remote/database/ItunesDatabase_Impl.java
+ com.app.appliitunes.remote.database.ItunesDatabase_Impl
+ com.app.appliitunes.remote.database.ItunesDatabase_Impl$1
+com/app/appliitunes/viewModel/ItunesModel_Factory.java
+ com.app.appliitunes.viewModel.ItunesModel_Factory
+com/app/appliitunes/di/ItunesModule_DataToDaoFactory.java
+ com.app.appliitunes.di.ItunesModule_DataToDaoFactory
+androidx/databinding/library/baseAdapters/BR.java
+ androidx.databinding.library.baseAdapters.BR
+com/app/appliitunes/databinding/ItemLayoutBindingImpl.java
+ com.app.appliitunes.databinding.ItemLayoutBindingImpl
+hilt_aggregated_deps/_com_app_appliitunes_viewModel_ItunesModel_HiltModules_KeyModule.java
+ hilt_aggregated_deps._com_app_appliitunes_viewModel_ItunesModel_HiltModules_KeyModule
+hilt_aggregated_deps/_com_app_appliitunes_ui_HomeFragment_GeneratedInjector.java
+ hilt_aggregated_deps._com_app_appliitunes_ui_HomeFragment_GeneratedInjector
+com/app/appliitunes/app/ItunesApp_HiltComponents.java
+ com.app.appliitunes.app.ItunesApp_HiltComponents
+ com.app.appliitunes.app.ItunesApp_HiltComponents$ActivityC
+ com.app.appliitunes.app.ItunesApp_HiltComponents$ActivityC$Builder
+ com.app.appliitunes.app.ItunesApp_HiltComponents$ActivityCBuilderModule
+ com.app.appliitunes.app.ItunesApp_HiltComponents$ActivityRetainedC
+ com.app.appliitunes.app.ItunesApp_HiltComponents$ActivityRetainedC$Builder
+ com.app.appliitunes.app.ItunesApp_HiltComponents$ActivityRetainedCBuilderModule
+ com.app.appliitunes.app.ItunesApp_HiltComponents$FragmentC
+ com.app.appliitunes.app.ItunesApp_HiltComponents$FragmentC$Builder
+ com.app.appliitunes.app.ItunesApp_HiltComponents$FragmentCBuilderModule
+ com.app.appliitunes.app.ItunesApp_HiltComponents$ServiceC
+ com.app.appliitunes.app.ItunesApp_HiltComponents$ServiceC$Builder
+ com.app.appliitunes.app.ItunesApp_HiltComponents$ServiceCBuilderModule
+ com.app.appliitunes.app.ItunesApp_HiltComponents$SingletonC
+ com.app.appliitunes.app.ItunesApp_HiltComponents$ViewC
+ com.app.appliitunes.app.ItunesApp_HiltComponents$ViewC$Builder
+ com.app.appliitunes.app.ItunesApp_HiltComponents$ViewCBuilderModule
+ com.app.appliitunes.app.ItunesApp_HiltComponents$ViewModelC
+ com.app.appliitunes.app.ItunesApp_HiltComponents$ViewModelC$Builder
+ com.app.appliitunes.app.ItunesApp_HiltComponents$ViewModelCBuilderModule
+ com.app.appliitunes.app.ItunesApp_HiltComponents$ViewWithFragmentC
+ com.app.appliitunes.app.ItunesApp_HiltComponents$ViewWithFragmentC$Builder
+ com.app.appliitunes.app.ItunesApp_HiltComponents$ViewWithFragmentCBuilderModule
+com/app/appliitunes/viewModel/ItunesModel_HiltModules_KeyModule_ProvideFactory.java
+ com.app.appliitunes.viewModel.ItunesModel_HiltModules_KeyModule_ProvideFactory
+ com.app.appliitunes.viewModel.ItunesModel_HiltModules_KeyModule_ProvideFactory$InstanceHolder
+com/app/appliitunes/databinding/FragmentHomeBindingImpl.java
+ com.app.appliitunes.databinding.FragmentHomeBindingImpl
+dagger/hilt/internal/aggregatedroot/codegen/_com_app_appliitunes_app_ItunesApp.java
+ dagger.hilt.internal.aggregatedroot.codegen._com_app_appliitunes_app_ItunesApp
+com/app/appliitunes/di/ItunesModule_ApiServiceFactory.java
+ com.app.appliitunes.di.ItunesModule_ApiServiceFactory
+ com.app.appliitunes.di.ItunesModule_ApiServiceFactory$InstanceHolder
+com/app/appliitunes/ui/HomeFragment_GeneratedInjector.java
+ com.app.appliitunes.ui.HomeFragment_GeneratedInjector
+hilt_aggregated_deps/_com_app_appliitunes_ui_MainActivity_GeneratedInjector.java
+ hilt_aggregated_deps._com_app_appliitunes_ui_MainActivity_GeneratedInjector
+com/app/appliitunes/DataBindingTriggerClass.java
+ com.app.appliitunes.DataBindingTriggerClass
+hilt_aggregated_deps/_com_app_appliitunes_di_ItunesModule.java
+ hilt_aggregated_deps._com_app_appliitunes_di_ItunesModule
+com/app/appliitunes/app/ItunesApp_GeneratedInjector.java
+ com.app.appliitunes.app.ItunesApp_GeneratedInjector
+hilt_aggregated_deps/_com_app_appliitunes_viewModel_ItunesModel_HiltModules_BindsModule.java
+ hilt_aggregated_deps._com_app_appliitunes_viewModel_ItunesModel_HiltModules_BindsModule
+dagger/hilt/internal/processedrootsentinel/codegen/_com_app_appliitunes_app_ItunesApp.java
+ dagger.hilt.internal.processedrootsentinel.codegen._com_app_appliitunes_app_ItunesApp
+com/app/appliitunes/BR.java
+ com.app.appliitunes.BR
+com/app/appliitunes/repository/ItunesRepo_Factory.java
+ com.app.appliitunes.repository.ItunesRepo_Factory
+com/app/appliitunes/DataBinderMapperImpl.java
+ com.app.appliitunes.DataBinderMapperImpl
+ com.app.appliitunes.DataBinderMapperImpl$InnerBrLookup
+ com.app.appliitunes.DataBinderMapperImpl$InnerLayoutIdLookup
+com/app/appliitunes/viewModel/ItunesModel_HiltModules.java
+ com.app.appliitunes.viewModel.ItunesModel_HiltModules
+ com.app.appliitunes.viewModel.ItunesModel_HiltModules$BindsModule
+ com.app.appliitunes.viewModel.ItunesModel_HiltModules$KeyModule
+com/app/appliitunes/databinding/FragmentHomeBinding.java
+ com.app.appliitunes.databinding.FragmentHomeBinding
+com/app/appliitunes/databinding/ItemLayoutBinding.java
+ com.app.appliitunes.databinding.ItemLayoutBinding
+com/app/appliitunes/ui/Hilt_HomeFragment.java
+ com.app.appliitunes.ui.Hilt_HomeFragment
+com/app/appliitunes/ui/MainActivity_GeneratedInjector.java
+ com.app.appliitunes.ui.MainActivity_GeneratedInjector
 com/app/appliitunes/BuildConfig.java
  com.app.appliitunes.BuildConfig
+hilt_aggregated_deps/_com_app_appliitunes_app_ItunesApp_GeneratedInjector.java
+ hilt_aggregated_deps._com_app_appliitunes_app_ItunesApp_GeneratedInjector
+androidx/databinding/DataBindingComponent.java
+ androidx.databinding.DataBindingComponent
+com/app/appliitunes/di/ItunesModule_RoomDbFactory.java
+ com.app.appliitunes.di.ItunesModule_RoomDbFactory

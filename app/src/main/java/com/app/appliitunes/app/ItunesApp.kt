@@ -1,4 +1,8 @@
 package com.app.appliitunes.app
 
-class ItunesApp {
+import android.app.Application
+import dagger.hilt.android.HiltAndroidApp
+
+@HiltAndroidApp
+class ItunesApp :Application() {
 }
