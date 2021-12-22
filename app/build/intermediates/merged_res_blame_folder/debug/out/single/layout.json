@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\parde\\AndroidStudioProjects\\itunesAssignment\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\parde\\AndroidStudioProjects\\itunesAssignment\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\parde\\AndroidStudioProjects\\itunesAssignment\\app\\build\\intermediates\\incremental\\mergeDebugResources\\stripped.dir\\layout\\item_layout.xml",
+        "source": "C:\\Users\\parde\\AndroidStudioProjects\\itunesAssignment\\app\\src\\main\\res\\layout\\item_layout.xml"
+    }
+]
